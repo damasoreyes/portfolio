@@ -1,14 +1,26 @@
+ div {width: 1000px
+
+
+  }
+
 h1 {
-	color: red;
-	font-family: Comic Sans;
+	color: blueviolet;
+	font-family: 'Comic Neue', cursive;
 	font-size: 70px;
+	text-align: center;
+	text-decoration: underline
 }
 
 body {
 	background-color: lightgray;
 }
 
-h2	{text-align: left;}
+h2	{text-align: left;
+
+font-style: italic;
+
+}
 ul {text-align: left;
+	text-decoration: underline;
 
 }
